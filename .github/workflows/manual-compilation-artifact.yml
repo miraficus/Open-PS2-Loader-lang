@@ -18,6 +18,9 @@ jobs:
         with:
           path: lng_src
 
+      - name: Mark repo as safe
+        run: git config --global --add safe.directory /__w/Open-PS2-Loader-lang/Open-PS2-Loader-lang
+
       - name: Compile language files
         run: |
           make --trace languages

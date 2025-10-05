@@ -202,8 +202,7 @@ translations:
   AUTOSTARTLAST: Auto start
   HINT_AUTOSTARTLAST: Hodnota v sekundách, zadej 0 pro vypnutí auto startu
   PS2LOGO: PS2 Logo
-  HINT_PS2LOGO: Zobrazováno pouze u validního loga disku, který má stejný region jako
-  konzole
+  HINT_PS2LOGO: Zobrazováno pouze u validního loga disku, který má stejný region jako konzole
   PADEMUCONFIG: Nastavení PADEMU
   PADEMU_SETTINGS: Nastavení emulátoru ovladače
   PADEMU_ENABLE: Emulátor ovladače
