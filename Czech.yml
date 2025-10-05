@@ -1,5 +1,5 @@
 comments: |-
-  Czech translation by jimmysmith
+  Czech translation by jimmysmith & miraficus
   For Open PS2 Loader v1.0.0 + betas - Official OPL Beta thread @https://www.psx-place.com/threads/open-ps2-loader-language-pack.20547/
 translations:
   LOCALE: Czech
@@ -8,15 +8,11 @@ translations:
   NETCONFIG: Síťová konfigurace
   SHOW_ADVANCED_OPTS: Pokročilé možnosti
   NO_ITEMS: <žádné hodnoty>
-  SETTINGS_SAVED:
-  - untranslated
-  - original: Settings saved to %s
+  SETTINGS_SAVED: Nastavení uloženo do %s
   ERROR_SAVING_SETTINGS: Chyba při ukládání nastavení!
   EXIT: Ukončit
   SETTINGS: Nastavení
-  MENU:
-  - untranslated
-  - original: Menu
+  MENU: Menu
   BDM_GAMES: BDM Hry
   HDD_GAMES: HDD Hry
   NET_GAMES: ETH Hry
@@ -39,18 +35,14 @@ translations:
   NETWORK_ERROR_LINK_FAIL: '%d: Žádné síťové připojení'
   'ON': Zap
   'OFF': Vyp
-  OK:
-  - untranslated
-  - original: OK
+  OK: OK
   SELECT: Vybrat
   CANCEL: Zrušit
   CIRCLE: Kolečko
   CROSS: Křížek
   GAMES_LIST: Seznam her
   COMPAT_SETTINGS: Nast. hry
-  REMOVE_ALL_SETTINGS:
-  - untranslated
-  - original: Remove Settings
+  REMOVE_ALL_SETTINGS: Odstranit včechno nastavení
   SCROLLING: Skrolování
   SLOW: Pomalu
   MEDIUM: Normálně
@@ -61,31 +53,21 @@ translations:
   ERROR_LOADING_ID: Chyba při nahrávání Game ID
   AUTOSORT: Automatické seřazení
   ERR_LOADING_LANGFILE: Chyba při nahrávání jazykového souboru
-  DEBUG:
-  - untranslated
-  - original: Debug Colors
+  DEBUG: Ladicí barvy
   NO_CONTROLLER: Nebyl detekován žádný ovladač, čekám…
-  COVERART:
-  - untranslated
-  - original: Cover Art
+  COVERART: Obaly her
   WIDE_SCREEN: Širokoúhlá obrazovka
   POWEROFF: Vypnout
   LOADING_SETTINGS: Nahrávám konfiguraci
   SAVING_SETTINGS: Ukládám konfiguraci
   START_DEVICE: Zapnout zařízení
   REFRESH: Obnovit
-  BDMMODE:
-  - untranslated
-  - original: BDM Start Mode
+  BDMMODE: Režim spuštění BDM
   HDDMODE: HDD zařízení při startu
   ETHMODE: ETH zařízení při startu
   APPMODE: Aplikace při startu
-  AUTO:
-  - untranslated
-  - original: Auto
-  MANUAL:
-  - untranslated
-  - original: Manual
+  AUTO: Automaticky
+  MANUAL: Ručně
   STARTNBD: Spustit NBD Server
   STARTINGNBD: Spouštím NBD Server…
   RUNNINGNBD: NBD Server běží…
@@ -94,86 +76,58 @@ translations:
   EXITTO: Cesta k IGR
   BGCOLOR: Barva pozadí
   TXTCOLOR: Barva textu
-  CAT_SMB_SERVER:
-  - untranslated
-  - original: '- SMB Server -'
+  CAT_SMB_SERVER: '- SMB Server -'
   IP_ADDRESS_TYPE: Typ IP adresy
   IP_ADDRESS_TYPE_STATIC: Statická
-  IP_ADDRESS_TYPE_DHCP:
-  - untranslated
-  - original: DHCP
+  IP_ADDRESS_TYPE_DHCP: DHCP
   IP_ADDRESS: IP adresa
   ADDRESS: Adresa
   MASK: Maska
   GATEWAY: Brána
-  DNS_SERVER:
-  - untranslated
-  - original: DNS Server
-  PORT:
-  - untranslated
-  - original: Port
-  SHARE:
-  - untranslated
-  - original: Share
+  DNS_SERVER: DNS server
+  PORT: Port
+  SHARE: Sdílená složka
   USER: Jméno
   PASSWORD: Heslo
   NOT_SET: <nenastaveno>
   ADDRESS_TYPE: Typ Adresy
-  ADDR_TYPE_IP:
-  - untranslated
-  - original: IP
-  ADDR_TYPE_NETBIOS:
-  - untranslated
-  - original: NetBIOS
+  ADDR_TYPE_IP: IP Adresa
+  ADDR_TYPE_NETBIOS: NetBIOS
   ACCEPT: Potvrdit
   DELETE_WARNING: Položka bude nevratně odstraněna, pokračovat?
   RENAME: Přejmen.
   DELETE: Smazat
   RUN: Spustit
   GFX_SETTINGS: Nastavení obrazovky
-  ENABLE_WRITE:
-  - untranslated
-  - original: Write Operations
+  ENABLE_WRITE: Zápisové operace
   LASTPLAYED: Pamatovat posledně hranou hru
   SELECTBUTTON: Tlačítko Select
   ERR_FRAGMENTED: Chyba, hra je fragmentovaná
   ERR_FILE_INVALID: Chyba, nemůžu spustit hru
-  TEST:
-  - untranslated
-  - original: Test Changes
+  TEST: Otestovat změny
   HINT_GUEST: Nechte prázdné pro přihlášení GUEST účtu
   HINT_MODE1: Přesné čtení
   HINT_MODE2: Synchronní mód
-  HINT_MODE3:
-  - untranslated
-  - original: Unhook Syscalls
+  HINT_MODE3: Odpojit systémová volání
   HINT_MODE4: Přeskočit videa
   HINT_MODE5: Emulovat DVD-DL
   HINT_MODE6: Vypnout IGR
   HINT_VMC_SIZE: Změna velikosti přeformátuje VMC
   CREATE: Vytvořit
-  START:
-  - untranslated
-  - original: Start
+  START: Spustit
   MODIFY: Změnit
   ABORT: Zrušit
-  RESET:
-  - untranslated
-  - original: Reset
+  RESET: Resetovat
   USE_GENERIC: Použít generickou
   VMC_SCREEN: Nastavení VMC
   VMC_NAME: Jméno
   SIZE: Velikost
-  VMC_STATUS:
-  - untranslated
-  - original: Status
+  VMC_STATUS: Stav
   VMC_PROGRESS: Postup
   VMC_FILE_EXISTS: VMC soubor existuje
   VMC_FILE_ERROR: Vadný VMC soubor, nesprávná velikost
   VMC_FILE_NEW: Je potřeba vytvořit VMC soubor
-  ERR_VMC_CONTINUE:
-  - untranslated
-  - original: Error accessing VMC %s. Continue with the Memory Card in slot %d?
+  ERR_VMC_CONTINUE: Chyba při přístupu k VMC %s. Pokračovat s paměťovou kartou ve slotu %d?
   AUTOREFRESH: Automatické obnovení
   ABOUT: O aplikaci
   DEVS: Kodéři
@@ -185,38 +139,20 @@ translations:
   VMODE: Video mód
   UICOLOR: Barva dialogu
   SELCOLOR: Vybraná barva
-  RESETCOLOR:
-  - untranslated
-  - original: Reset Colors
-  INFO:
-  - untranslated
-  - original: Info
-  ALTSTARTUP:
-  - untranslated
-  - original: Custom ELF
+  RESETCOLOR: Obnovit barvy
+  INFO: Informace
+  ALTSTARTUP: Vlastní ELF
   COLOR_SELECTION: Barva zvýraznení
-  RECONNECT:
-  - untranslated
-  - original: Reconnect
+  RECONNECT: Znovu připojit
   HINT_SHARENAME: Nechte prázdné pro seznam share
   ETH_PREFIX: prefix cesty k ETH
-  BACKSPACE:
-  - untranslated
-  - original: Backspace
+  BACKSPACE: Backspace
   SPACE: Mezera
-  ENTER:
-  - untranslated
-  - original: Enter
+  ENTER: Enter
   MODE: Mód
-  VMC_SLOT1:
-  - untranslated
-  - original: VMC Slot 1
-  VMC_SLOT2:
-  - untranslated
-  - original: VMC Slot 2
-  GAME_ID:
-  - untranslated
-  - original: Game ID
+  VMC_SLOT1: Slot VMC 1
+  VMC_SLOT2: Slot VMC 2
+  GAME_ID: ID hry
   DMA_MODE: DMA Mód
   VSYNC: V - Sync
   MODE1: Mód 1
@@ -232,29 +168,19 @@ translations:
   ETH_10MFDX: 10Mbit full-duplex
   ETH_10MHDX: 10Mbit half-duplex
   GSM_SETTINGS: Nastavení GSM
-  ENABLEGSM:
-  - untranslated
-  - original: GSM Selector
+  ENABLEGSM: Výběr GSM
   HINT_ENABLEGSM: Přepíná GSM ON/OFF
   HINT_GSMVMODE: Vnutit uživatelský Display Mód
-  XOFFSET:
-  - untranslated
-  - original: H-POS
+  XOFFSET: H-Pozice
   HINT_XOFFSET: Horizontální úprava
-  YOFFSET:
-  - untranslated
-  - original: V-POS
+  YOFFSET: V-Pozice
   HINT_YOFFSET: Vertikální úprava
-  OVERSCAN:
-  - untranslated
-  - original: Overscan
+  OVERSCAN: Překrytí obrazu
   HINT_OVERSCAN: Overscan Adjustment
   GSMSKIPVIDEOS: Přeskočit FMV
   HINT_GSMSKIPVIDEOS: Přeskočit Full Motion Videa
   CHEAT_SETTINGS: Nastavení Cheatů
-  ENABLECHEAT:
-  - untranslated
-  - original: PS2RD Cheat Engine
+  ENABLECHEAT: PS2RD Cheat Engine
   HINT_ENABLECHEAT: Umožní použití PS2RD Cheat Enginu
   CHEATMODE: PS2RD Cheat Engine Mód
   HINT_CHEATMODE: Automatické nebo uživatelská volba cheatů
@@ -264,9 +190,7 @@ translations:
   NO_CHEATS_FOUND: Nenalezeny žádné cheaty
   DL_DEFAULTS: Stáhnout původní verze konfigů
   NET_UPDATE: Síťový update
-  NET_UPDATE_ALL:
-  - untranslated
-  - original: Overwrite Existing Records
+  NET_UPDATE_ALL: Přepsat existující záznamy
   NET_UPDATE_FAILED: Update selhal.
   NET_UPDATE_CONN_FAILED: Připojení k update serveru se nezdařilo.
   NET_UPDATE_DONE: Update kompletní.
@@ -277,321 +201,119 @@ translations:
   AUTO_START_IN_N_SECS: Automatický start v %i s…
   AUTOSTARTLAST: Auto start
   HINT_AUTOSTARTLAST: Hodnota v sekundách, zadej 0 pro vypnutí auto startu
-  PS2LOGO:
-  - untranslated
-  - original: PS2 Logo
+  PS2LOGO: PS2 Logo
   HINT_PS2LOGO: Zobrazováno pouze u validního loga disku, který má stejný region jako
-    konzole
-  PADEMUCONFIG:
-  - untranslated
-  - original: Configure PADEMU
-  PADEMU_SETTINGS:
-  - untranslated
-  - original: Pad Emulator Settings
-  PADEMU_ENABLE:
-  - untranslated
-  - original: Pad Emulator
-  HINT_PADEMU_ENABLE: Turns on/off PadEmulator for selected game.
-  PADEMU_MODE: Pad Emulator mode
-  HINT_PADEMU_MODE:
-  - untranslated
-  - original: Select Pad Emulator mode.
-  DS34USB_MODE:
-  - untranslated
-  - original: DualShock3/4 USB
-  DS34BT_MODE:
-  - untranslated
-  - original: DualShock3/4 BT
-  PADPORT: 'Settings for port:'
-  HINT_PAD_PORT:
-  - untranslated
-  - original: Select Pad Emulator port for settings.
-  PADEMU_PORT:
-  - untranslated
-  - original: Emulation
-  HINT_PADEMU_PORT:
-  - untranslated
-  - original: Turns on/off Pad Emulator for selected port.
-  PADEMU_VIB:
-  - untranslated
-  - original: Vibration
-  HINT_PADEMU_VIB:
-  - untranslated
-  - original: Turns on/off vibration for Pad Emulator selected port.
-  USBDG_MAC: 'Usb bluetooth adapter mac address:'
-  PAD_MAC: 'DS Controller paired to mac address:'
-  PAIR:
-  - untranslated
-  - original: Pair
-  PAIR_PAD:
-  - untranslated
-  - original: Pair DS Controller
-  HINT_PAIRPAD: Pair DS Controller with bluetooth adapter mac address.
-  NOT_CONNECTED: Not connected
-  BTINFO: Bluetooth adapter information
-  HINT_BTINFO: Shows more information and supported features
-  HCIVER:
-  - untranslated
-  - original: 'HCI Version:'
-  LMPVER:
-  - untranslated
-  - original: 'LMP Version:'
-  MANUFACTURER:
-  - untranslated
-  - original: 'Manufacturer ID:'
-  SUPFEATURES: 'Support features:'
-  'YES':
-  - untranslated
-  - original: 'Yes'
-  'NO':
-  - untranslated
-  - original: 'No'
-  BT_SUPPORTED:
-  - untranslated
-  - original: Bluetooth adapter should be fully compatible with DS3/DS4 controllers.
-  BT_NOTSUPPORTED:
-  - untranslated
-  - original: Bluetooth adapter may not work correctly with DS3/DS4 controllers.
-  MTAP_ENABLE:
-  - untranslated
-  - original: Multitap Emulation
-  HINT_MTAP_ENABLE:
-  - untranslated
-  - original: Turns on/off Multitap emulation for selected game.
-  MTAP_PORT: Multitap emulator on port
-  HINT_MTAP_PORT:
-  - untranslated
-  - original: Select port for Multitap emulation.
-  PADEMU_WORKAROUND: Disable workaround for fake ds3
-  HINT_PADEMU_WORKAROUND:
-  - untranslated
-  - original: Some fake DS3s need a workaround, this option will enable it.
-  GSM_FIELD_FIX: Emulate FIELD flipping
-  HINT_GSM_FIELD_FIX:
-  - untranslated
-  - original: Fix for games that glitch under progressive video modes.
-  PARENLOCKCONFIG:
-  - untranslated
-  - original: Parental Lock Settings
-  PARENLOCK_PASSWORD:
-  - untranslated
-  - original: Parental Lock Password
-  PARENLOCK_PASSWORD_HINT:
-  - untranslated
-  - original: Leave blank to disable the parental lock.
-  PARENLOCK_ENTER_PASSWORD_TITLE:
-  - untranslated
-  - original: Enter Parental Lock Password
-  PARENLOCK_PASSWORD_INCORRECT:
-  - untranslated
-  - original: Parental lock password incorrect.
-  PARENLOCK_DISABLE_WARNING:
-  - untranslated
-  - original: Parental lock disabled.
-  BUILD_DETAILS:
-  - untranslated
-  - original: 'Build Options:'
-  PARENLOCK_INVALID_PASSWORD:
-  - untranslated
-  - original: Error - this password cannot be used.
-  ERR_VMC_FRAGMENTED_CONTINUE:
-  - untranslated
-  - original: VMC %s file is fragmented. Continue with Memory Card in slot %d?
-  AUDIO_SETTINGS:
-  - untranslated
-  - original: Audio Settings
-  SFX:
-  - untranslated
-  - original: Sound Effects
-  BOOT_SND:
-  - untranslated
-  - original: Boot Sound
-  SFX_VOLUME:
-  - untranslated
-  - original: Sound Effects Volume
-  BOOT_SND_VOLUME:
-  - untranslated
-  - original: Boot Sound Volume
-  CFM_VMODE_CHG:
-  - untranslated
-  - original: Confirm video mode change?
-  CACHE_HDD_GAME_LIST:
-  - untranslated
-  - original: Cache Game List (HDD)
-  ENABLE_NOTIFICATIONS:
-  - untranslated
-  - original: Notifications
-  CFG_NOTIFICATION:
-  - untranslated
-  - original: Config loaded from %s
-  THM_NOTIFICATION:
-  - untranslated
-  - original: Theme loaded from %s
-  LNG_NOTIFICATION:
-  - untranslated
-  - original: Language loaded from %s
-  PARTITION_NOTIFICATION:
-  - untranslated
-  - original: '%s partition mounted.'
-  OPTIONS:
-  - untranslated
-  - original: Options
-  GAME_SETTINGS_SAVED:
-  - untranslated
-  - original: Game settings saved.
-  GAME_SETTINGS_REMOVED:
-  - untranslated
-  - original: '%s settings removed.'
-  NET_UPDATE_HINT:
-  - untranslated
-  - original: Overwrites existing game compatibility settings when enabled.
-  SETTINGS_SOURCE:
-  - untranslated
-  - original: Settings Mode
-  GLOBAL_SETTINGS:
-  - untranslated
-  - original: Global
-  PERGAME_SETTINGS:
-  - untranslated
-  - original: Per Game
-  ALL_SETTINGS:
-  - untranslated
-  - original: All
-  GAME_SETTINGS_PROMPT:
-  - untranslated
-  - original: Select settings to remove.
-  FORUM_DETAILS:
-  - untranslated
-  - original: 'Support Forums:'
-  INFO_TITLE:
-  - untranslated
-  - original: Title
-  INFO_GENRE:
-  - untranslated
-  - original: Genre
-  INFO_RELEASE:
-  - untranslated
-  - original: Release
-  INFO_DEVELOPER:
-  - untranslated
-  - original: Developer
-  INFO_DESCRIPTION:
-  - untranslated
-  - original: Description
-  BLOCKDEVICE_SETTINGS:
-  - untranslated
-  - original: Block Devices
-  CONTROLLER_SETTINGS:
-  - untranslated
-  - original: Controller Settings
-  HINT_BDM_START:
-  - untranslated
-  - original: Turn on/off Block Device Manager.
-  HINT_BLOCK_DEVICES:
-  - untranslated
-  - original: Turn on/off Block Devices (e.g. USB).
-  USB_GAMES:
-  - untranslated
-  - original: USB Games
-  ILINK_GAMES:
-  - untranslated
-  - original: iLink Games
-  MX4SIO_GAMES:
-  - untranslated
-  - original: MX4SIO Games
-  PADMACROCONFIG:
-  - untranslated
-  - original: Configure PADMACRO
-  PADMACRO_SETTINGS:
-  - untranslated
-  - original: Pad macro Settings
-  PADMACRO_ENABLE:
-  - untranslated
-  - original: Pad macros
-  PADMACRO_SLOWDOWN:
-  - untranslated
-  - original: 'Analog slow-down:'
-  HINT_PADMACRO_SLOWDOWN_AXIS:
-  - untranslated
-  - original: Reduce range of analog stick when button is pressed
-  LEFT_ANALOG:
-  - untranslated
-  - original: Left stick
-  RIGHT_ANALOG:
-  - untranslated
-  - original: Right stick
-  PADMACRO_INVERT_AXIS:
-  - untranslated
-  - original: 'Analog axis invert:'
-  HINT_PADMACRO_INVERT_AXIS:
-  - untranslated
-  - original: Invert analog stick axis
-  TURBO_SPEED:
-  - untranslated
-  - original: Turbo button speed
-  HINT_TURBO_SPEED:
-  - untranslated
-  - original: How fast to press the button when turbo is active
-  ACT_WHILE_PRESSED:
-  - untranslated
-  - original: While button pressed
-  ACT_TOGGLED:
-  - untranslated
-  - original: Toggled by button
-  LANGUAGE_JAPANESE:
-  - untranslated
-  - original: JAPANESE
-  LANGUAGE_ENGLISH:
-  - untranslated
-  - original: ENGLISH
-  LANGUAGE_FRENCH:
-  - untranslated
-  - original: FRENCH
-  LANGUAGE_SPANISH:
-  - untranslated
-  - original: SPANISH
-  LANGUAGE_GERMAN:
-  - untranslated
-  - original: GERMAN
-  LANGUAGE_ITALIAN:
-  - untranslated
-  - original: ITALIAN
-  LANGUAGE_DUTCH:
-  - untranslated
-  - original: DUTCH
-  LANGUAGE_PORTUGUESE:
-  - untranslated
-  - original: PORTUGUESE
-  LANGUAGE_RUSSIAN:
-  - untranslated
-  - original: RUSSIAN
-  LANGUAGE_KOREAN:
-  - untranslated
-  - original: KOREAN
-  LANGUAGE_TRAD_CHINESE:
-  - untranslated
-  - original: TRADITIONAL CHINESE
-  LANGUAGE_SIMPL_CHINESE:
-  - untranslated
-  - original: SIMPLIFIED CHINESE
-  OSD_SETTINGS:
-  - untranslated
-  - original: OSD settings
-  OSD_SETTINGS_LNG:
-  - untranslated
-  - original: OSD Language
-  ENABLE_LNG:
-  - untranslated
-  - original: Change language
-  BGM:
-  - untranslated
-  - original: Background Music
-  BGM_VOLUME:
-  - untranslated
-  - original: Background Music Volume
-  DEF_BGM_PATH:
-  - untranslated
-  - original: Default Theme Music
-  DEF_BGM_PATH_HINT:
-  - untranslated
-  - original: Set path to stream music for internal theme.
+  konzole
+  PADEMUCONFIG: Nastavení PADEMU
+  PADEMU_SETTINGS: Nastavení emulátoru ovladače
+  PADEMU_ENABLE: Emulátor ovladače
+  HINT_PADEMU_ENABLE: Zapne/vypne PadEmulator pro vybranou hru.
+  PADEMU_MODE: Režim emulátoru ovladače
+  HINT_PADEMU_MODE: Vyberte režim emulátoru ovladače
+  DS34USB_MODE: DualShock3/4 USB
+  DS34BT_MODE: DualShock3/4 Bluetooth
+  PADPORT: 'Nastavení portu:'
+  HINT_PAD_PORT: Vyberte port pro nastavení emulátoru ovladače
+  PADEMU_PORT: Emulace
+  HINT_PADEMU_PORT: Zapnout/vypnout emulátor ovladače pro zvolený port
+  PADEMU_VIB: Vibrace
+  HINT_PADEMU_VIB: Zapnout/vypnout vibrace pro zvolený port emulátoru ovladače
+  USBDG_MAC: 'Usb bluetooth adaptér spárován s MAC adresou:'
+  PAD_MAC: 'DS ovladač spárován s MAC adresou:'
+  PAIR: Spárovat
+  PAIR_PAD: Spárovat DS ovladač
+  HINT_PAIRPAD: Spáruje DS ovladač s MAC adresou Bluetooth adaptéru
+  NOT_CONNECTED: Nepřipojeno
+  BTINFO: Informace o Bluetooth adaptéru
+  HINT_BTINFO: Zobrazí více informací a podporované funkce
+  HCIVER: Verze HCI
+  LMPVER: Verze LMP
+  MANUFACTURER: ID výrobce
+  SUPFEATURES: 'Podporované funkce:'
+  'YES': Ano
+  'NO': Ne
+  BT_SUPPORTED: Bluetooth adaptér je plně kompatibilní s ovladači DS3/DS4
+  BT_NOTSUPPORTED: Bluetooth adaptér nemusí správně fungovat s ovladači DS3/DS4
+  MTAP_ENABLE: Emulace Multitapu
+  HINT_MTAP_ENABLE: Zapne/vypne emulaci Multitapu pro vybranou hru
+  MTAP_PORT: Emulátor Multitap na portu
+  HINT_MTAP_PORT: Vyberte port pro emulaci Multitapu
+  PADEMU_WORKAROUND: Vypnout úpravu pro falešné DS3
+  HINT_PADEMU_WORKAROUND: Některé falešné DS3 vyžadují úpravu, tato volba ji aktivuje
+  GSM_FIELD_FIX: Emulovat přepínání FIELD
+  HINT_GSM_FIELD_FIX: Oprava pro hry, které mají chyby v progresivním video režimu
+  PARENLOCKCONFIG: Nastavení rodičovského zámku
+  PARENLOCK_PASSWORD: Heslo rodičovského zámku
+  PARENLOCK_PASSWORD_HINT: Nechte prázdné pro vypnutí rodičovského zámku
+  PARENLOCK_ENTER_PASSWORD_TITLE: Zadejte heslo rodičovského zámku
+  PARENLOCK_PASSWORD_INCORRECT: Heslo rodičovského zámku je nesprávné
+  PARENLOCK_DISABLE_WARNING: Rodičovský zámek byl vypnut
+  BUILD_DETAILS: Možnosti sestavení
+  PARENLOCK_INVALID_PASSWORD: 'Chyba – toto heslo nelze použít'
+  ERR_VMC_FRAGMENTED_CONTINUE: Soubor VMC %s je fragmentovaný. Pokračovat s paměťovou kartou ve slotu %d?
+  AUDIO_SETTINGS: Nastavení zvuku
+  SFX: Zvukové efekty
+  BOOT_SND: Zvuk při spuštění
+  SFX_VOLUME: Hlasitost zvukových efektů
+  BOOT_SND_VOLUME: Hlasitost zvuku při spuštění
+  CFM_VMODE_CHG: Potvrdit změnu video režimu?
+  CACHE_HDD_GAME_LIST: Ukládat seznam her (HDD)
+  ENABLE_NOTIFICATIONS: Notifikace
+  CFG_NOTIFICATION: Konfigurace načtena z %s
+  THM_NOTIFICATION: Motiv načten z %s
+  LNG_NOTIFICATION: Jazyk načten z %s
+  PARTITION_NOTIFICATION: Oddíl %s připojen.
+  OPTIONS: Možnosti
+  GAME_SETTINGS_SAVED: Nastavení hry uloženo.
+  GAME_SETTINGS_REMOVED: Nastavení %s odstraněno.
+  NET_UPDATE_HINT: Při aktivaci přepíše existující nastavení kompatibility her.
+  SETTINGS_SOURCE: Režim nastavení
+  GLOBAL_SETTINGS: Globální
+  PERGAME_SETTINGS: Pro hru
+  ALL_SETTINGS: Vše
+  GAME_SETTINGS_PROMPT: Vyberte nastavení k odstranění.
+  FORUM_DETAILS: Podpůrná fóra:
+  INFO_TITLE: Název
+  INFO_GENRE: Žánr
+  INFO_RELEASE: Datum vydání
+  INFO_DEVELOPER: Vývojář
+  INFO_DESCRIPTION: Popis
+  BLOCKDEVICE_SETTINGS: Nastavení blokových zařízení
+  CONTROLLER_SETTINGS: Nastavení ovladače
+  HINT_BDM_START: Zapnout/vypnout správce blokových zařízení.
+  HINT_BLOCK_DEVICES: Zapnout/vypnout bloková zařízení (např. USB).
+  USB_GAMES: USB hry
+  ILINK_GAMES: iLink hry
+  MX4SIO_GAMES: MX4SIO hry
+  PADMACROCONFIG: Nastavení PADMACRO
+  PADMACRO_SETTINGS: Nastavení makra ovladače
+  PADMACRO_ENABLE: Makra ovladače
+  PADMACRO_SLOWDOWN: 'Zpomalení analogu:'
+  HINT_PADMACRO_SLOWDOWN_AXIS: Zmenší rozsah analogové páčky při stisknutí tlačítka
+  LEFT_ANALOG: Levá páčka
+  RIGHT_ANALOG: Pravá páčka
+  PADMACRO_INVERT_AXIS: 'Inverze osy analogu:'
+  HINT_PADMACRO_INVERT_AXIS: Inverze osy analogové páčky
+  TURBO_SPEED: Rychlost turbo tlačítka
+  HINT_TURBO_SPEED: Jak rychle se má tlačítko mačkat při aktivním turbu
+  ACT_WHILE_PRESSED: Při stisknutém tlačítku
+  ACT_TOGGLED: Přepnuto tlačítkem
+  LANGUAGE_JAPANESE: Japonština
+  LANGUAGE_ENGLISH: Angličtina
+  LANGUAGE_FRENCH: Francouzština
+  LANGUAGE_SPANISH: Španělština
+  LANGUAGE_GERMAN: Němčina
+  LANGUAGE_ITALIAN: Italština
+  LANGUAGE_DUTCH: Holandština
+  LANGUAGE_PORTUGUESE: Portugalština
+  LANGUAGE_RUSSIAN: Ruština
+  LANGUAGE_KOREAN: Korejština
+  LANGUAGE_TRAD_CHINESE: Tradiční čínština
+  LANGUAGE_SIMPL_CHINESE: Zjednodušená čínština
+  OSD_SETTINGS: Nastavení OSD
+  OSD_SETTINGS_LNG: Jazyk OSD
+  ENABLE_LNG: Změnit jazyk
+  BGM: Hudba na pozadí
+  BGM_VOLUME: Hlasitost hudby na pozadí
+  DEF_BGM_PATH: Výchozí hudba motivu
+  DEF_BGM_PATH_HINT: Nastaví cestu ke streamované hudbě pro interní motiv
