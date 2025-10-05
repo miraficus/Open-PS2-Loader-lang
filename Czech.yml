@@ -271,7 +271,7 @@ translations:
   PERGAME_SETTINGS: Pro hru
   ALL_SETTINGS: Vše
   GAME_SETTINGS_PROMPT: Vyberte nastavení k odstranění.
-  FORUM_DETAILS: Podpůrná fóra:
+  FORUM_DETAILS: 'Podpůrná fóra:'
   INFO_TITLE: Název
   INFO_GENRE: Žánr
   INFO_RELEASE: Datum vydání
